@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Medvedi:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Medvedi_jar</output-path>
+    <root id="archive" name="Medvedi.jar">
+      <element id="module-output" name="Medvedi" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/asciiPanel.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
